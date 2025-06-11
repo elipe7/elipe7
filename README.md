@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on in the development of your company
 - 📫 How to reach me ... instagram: luancrf8
 - ⚡ Fun fact: sou atleta nas horas vagas
+  js, html, python, css and bc
